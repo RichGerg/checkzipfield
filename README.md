@@ -2,7 +2,7 @@
 
 A lightweight, serverless solution that checks a target webpage every hour to detect if a critical form field (e.g. ZIP code input) is missing. If the field is not found, the system sends an automatic email alert using SendGrid.
 
-This tool is useful for detecting silent form failures or broken landing pages — especially those running paid traffic.
+This tool is useful for detecting silent form failures or broken landing pages - especially those running paid traffic.
 
 ---
 
