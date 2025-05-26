@@ -34,6 +34,8 @@ This tool is useful for detecting silent form failures or broken landing pages -
 4. If the field is missing (or page fails to load), it sends an email alert via SendGrid.
 5. API key and settings are stored securely in Azure App Configuration.
 
+![Mock Form](https://www.phishy.cloud/assets/img/proj/img-mock-form.jpg)
+
 ---
 
 ## 🔑 Environment Variables (App Settings in Azure)
