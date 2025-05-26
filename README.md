@@ -77,4 +77,4 @@ This project is open source under the [MIT License](LICENSE).
 
 ## ✉️ Credits
 
-Created by RichGerg — built as a lightweight client-side monitoring solution to support lead gen reliability during a high-traffic ad campaign.
+Created by RichGerg - built as a lightweight client-side monitoring solution to support lead gen reliability during a high-traffic ad campaign.
