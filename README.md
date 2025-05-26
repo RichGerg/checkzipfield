@@ -55,12 +55,16 @@ This tool is useful for detecting silent form failures or broken landing pages -
 5. Add `SENDGRID_API_KEY` to your Function App’s **Configuration → Application settings**.
 6. Test manually using the Azure portal, or let it run on schedule.
 
+![Mock Form](https://www.phishy.cloud/assets/img/proj/img-form-1.jpg)
+
 ---
 
 ## 🧪 Testing Tips
 
 - Change the field name in the code to something fake to simulate a failure.
 - Watch the Azure logs and verify email delivery from SendGrid.
+
+![Mock Form](https://www.phishy.cloud/assets/img/proj/img-form-2.jpg)
 
 ---
 
